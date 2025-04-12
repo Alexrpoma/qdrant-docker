@@ -7,4 +7,3 @@ Nginx is used to load balancer the requests to the correct node.
 
 ### QDRANT_API
 In this folder, you can find the QDRANT_API docker-compose file with a single node.
-
